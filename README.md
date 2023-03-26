@@ -23,5 +23,3 @@
   <img align="center" alt="V-Terraform" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg">
   <img align="center" alt="V-Vagrant" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original-wordmark.svg">
  </div>
-  
- ![Snake animation](https://github.com/HysV/HysV/blob/output/github-contribution-grid-snake.svg)
