@@ -9,7 +9,6 @@
   <a href="https://github.com/HysV">
 </div>
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=HysV&show_icons=true&theme=dark)
 [![Victor's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HysV&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/HysV/github-readme-stats#gh-dark-mode-only)
 
 <div style="display: inline_block"><br>
