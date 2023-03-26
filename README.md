@@ -24,4 +24,4 @@
   <img align="center" alt="V-Vagrant" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original-wordmark.svg">
  </div>
   
- ![Snake animation](https://github.com/HysV/HysV/blob/output/github-contribution-grid.snake.svg)
+ ![Snake animation](https://github.com/HysV/HysV/blob/output/github-contribution-grid-snake.svg)
