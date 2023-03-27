@@ -1,10 +1,10 @@
-## Olá! Eu sou Victor Martins 👋
+## Olá! Eu sou Victor Martins!
 
-- 🔭 Hoje estou trabalhando com Suporte e Infraestrutura em TI
+- 🔭 Trabalho Suporte Técnico e Infraestrutura em TI
 - 🌱 E também estou estudando DevOps, Cloud e Cibersegurança
 - 💬 Pergunte-me sobre Tecnologia
 
-## Tecnologia, Inovação e Desafios!
+## Amo Tecnologia, Inovação e Desafios!
 <div align="center">
   <a href="https://github.com/HysV">
 </div>
