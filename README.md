@@ -1,7 +1,7 @@
 ## Olá! Eu sou Victor Martins!
 
 - 🔭 Trabalho com Suporte Técnico e Infraestrutura de TI
-- 🌱 E também estou estudando DevOps, Cloud e Cibersegurança
+- 🌱 E também estou estudando Cloud, Cibersegurança, DevOps e Programação
 - 💬 Pergunte-me sobre Tecnologia
 
 ## Tecnologia, Inovação e Desafios!
