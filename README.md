@@ -4,7 +4,7 @@
 - 🌱 E também estou estudando DevOps, Cloud e Cibersegurança
 - 💬 Pergunte-me sobre Tecnologia
 
-## Amo Tecnologia, Inovação e Desafios!
+## Tecnologia, Inovação e Desafios!
 <div align="center">
   <a href="https://github.com/HysV">
 </div>
