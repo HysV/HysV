@@ -10,8 +10,6 @@
   <a href="https://github.com/HysV">
 </div>
 
-[![Victor's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HysV&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/HysV/github-readme-stats#gh-dark-mode-only)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="V-Ansible" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain-wordmark.svg">
   <img align="center" alt="V-Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
